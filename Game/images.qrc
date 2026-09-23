@@ -1,0 +1,19 @@
+﻿<RCC>
+    <qresource prefix="/images">
+        <file>image/pterodactyl/PNG/ptero atack.png</file>
+        <file>image/pterodactyl/PNG/ptero death.png</file>
+        <file>image/pterodactyl/PNG/ptero hurt.png</file>
+        <file>image/pterodactyl/PNG/ptero idle.png</file>
+        <file>image/pterodactyl/PNG/ptero walk atack.png</file>
+        <file>image/pterodactyl/PNG/ptero walk.png</file>
+        <file>image/trex/PNG/Trex_Atack.png</file>
+        <file>image/trex/PNG/Trex_Dead.png</file>
+        <file>image/trex/PNG/Trex_Hurt.png</file>
+        <file>image/trex/PNG/Trex_Idle.png</file>
+        <file>image/trex/PNG/Trex_Move.png</file>
+        <file>image/trex/PNG/Trex_Run.png</file>
+        <file>image/Introl_Trap2.gif</file>
+        <file>image/back.png</file>
+        <file>image/login.png</file>
+    </qresource>
+</RCC>

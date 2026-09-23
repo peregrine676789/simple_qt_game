@@ -1,0 +1,12 @@
+release/MovingTrap.o
+release/SpriteAnimation.o
+release/Trap.o
+release/dialog.o
+release/gameswitch.o
+release/main.o
+release/mainwindow.o
+release/teacher.o
+release/qrc_images.o
+release/moc_dialog.o
+release/moc_mainwindow.o
+release/moc_teacher.o
